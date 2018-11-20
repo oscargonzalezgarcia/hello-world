@@ -1,3 +1,3 @@
 # hello-world
-# Hola gon
-# Adéu gon
+#Hola gon
+#Adéu gon
